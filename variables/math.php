@@ -27,4 +27,4 @@ $modulo = 99 % 39;
 
 $expo = 5 ** 4;
 
-echo 'Math!';
+echo "Math!";
