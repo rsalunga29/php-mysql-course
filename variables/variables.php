@@ -23,4 +23,4 @@ $firstName .= $lastName;
 # Variable naming
 $fullname = "Salunga Roland Emmanuel";
 
-echo $firstName;
+echo 'Variables!';

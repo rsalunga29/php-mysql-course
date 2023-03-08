@@ -2,4 +2,6 @@
 
 define('GREETINGS', 'Welcome to PHP & MySQL Course!');
 
-echo GREETINGS;
+define('SMARTPHONES', ['iPhone', 'Google Pixel', 'Samsung Galaxy']);
+
+echo 'Constants!';
