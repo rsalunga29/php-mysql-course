@@ -17,6 +17,8 @@ $randomNumber = rand();
 # Arithmetic
 $sum = 50 + 50;
 
+$subtract = 5 - 45;
+
 $multiple = 1 * 8;
 
 $divide = 100 / 2;
